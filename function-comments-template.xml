@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="org.eclipse.jsdt.methodcomment_context" deleted="false" description="Comment for non-overriding function" enabled="true" id="org.eclipse.wst.jsdt.ui.text.codetemplates.methodcomment" name="methodcomment">/**
+ * 
+ * @author ${user}
+ * @date ${date}
+ * 
+ * @param [] 
+ * @return []
+ */</template></templates>
